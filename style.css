@@ -1,0 +1,110 @@
+.nm-logo img
+{
+    height: 50px;
+    width: 55px;
+}
+
+.container
+{
+    margin-bottom: 100px;
+}
+.orange-bg
+{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item
+{
+    padding: 20px 40px;
+}
+
+.price
+{
+    color: #FF136F;
+}
+
+.buy-now-button
+{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1, .cat2, .cat3,a
+{
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.cat1
+{
+    background-color: orange;
+    
+}
+
+.cat2
+{
+    background-color: orchid;
+}
+
+.cat3
+{
+    background-color: blue;
+}
+
+
+.categories h1
+{
+    color: #ffffff;
+}
+
+.categories img
+{
+    width: 100px;
+    height: 100px;
+}
+
+.card
+{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card img
+{
+    height: 356px;
+    width: 356px;
+}
+
+.Catotes p
+{
+    text-align: justify;
+}
+
+#rateus
+{
+    height: 300px;
+}
+
+#rateus h6{
+    color: gray;
+}
+
+footer
+{
+    text-align: center;
+}
+
+
+
+.backtop img
+{
+    height: 50px;
+    width: 50px;
+   
+}
